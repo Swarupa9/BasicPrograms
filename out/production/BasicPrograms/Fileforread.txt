@@ -1,0 +1,5 @@
+This file is a text file.
+Which is created to read data from text file.
+There are mainly two approaches
+1. Using FileReader and BufferReader
+2. Using Scanner and file

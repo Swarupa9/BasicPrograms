@@ -1,0 +1,1 @@
+This is for example of How to write data into text fileHere we use FileWriter and BufferedWriter classesIf file is present on location given in path then it will write given lines in that filefile is present on location given in path then It will create new file and write given lines
